@@ -16,11 +16,17 @@ Samples were collected from the "XXXXs" replicate of the 2021 Nebraska Bugeater 
 
 ## Nebraska 2020
 
-Samples were extracted using ... protocol from Jon.
+RNA extraction was performed on 50mg leaf tissue stored in 2mL microcentrifuge tubes (Fisher Scientific; 05-408-138) containing a single, 3/16" stainless steel precision ball (Grainger; 4RJF7). Samples had remained frozen at or below -60*C since collection.
+
+Using a TissueLyzer II (Qiagen; 85300) that oscillated at 25Hz in 30 second increments, the frozen leaf samples were ground to a fine powder. If additional grindings were required, samples were chilled on dry ice for one minute before resuming.
+
+Total RNA was extracted from the grounded frozen leaf samples using the MagMax Plant RNA Isolation Kit (ThermoFisher Scientific; A47157). The standard procedure affiliated with this product was followed. It should be noted the extraction was performed with the optional use of dithiothreitol in the lysis buffer and the aid of a Kingfisher Flex Purification System (ThermoFisher Scientific; 5400630).
+
+Total RNA extracts had their concentration quantified using the Quant-IT Broad Range RNA Assay Kit (ThermoFisher Scientific; Q10213) and a CLARIOstar Plus plate reader (BMG LabTech)
 
 ## Nebraska 2021 and Michigan 2021
 
-Samples were extracted by Psomagen using ... kit.
+Samples were extracted largely as described for Nebraska 2020, but extractions were conducted externally (at Psomagen). RNA concentration with a TapeStation 4200 (Agilent) rather than with dye and plate reader. 
 
 # Sequencing
 
