@@ -31,8 +31,12 @@ Three repeated measurements were collected per plot but the three measurements w
 
 The 2020 experiment was lead by Dr. Seema Sahay with input from Dr. Marcin Grzybowski. Dr. Sahay's advisor is Prof. Katarzyna Glowacka. Dr. Grzybowski's advisor is James Schnable.
 
+Annie Nelson, Bailey McLean, Rachel Gerdes, Ravi Tross, Michael Tross, Mackenzie Zweiner, Marcin Gryzbowski and Seema Sahay all worked to collect sensor data in the summer of 2020.
+
 The 2021 experiment was lead by Fangyi Li. Her advisors are Prof. Rebecca Roston and James Schnable.
 
-XXXX get list of 2020 phenotypers from Marcin or Seema. I know Aime helped at least once. 
-
 Jonathan Turkus, Marcin Grzybowski, Hongyu Jin, Michael Tross, Aline Rodrigues de Queiroz and Thien Thao Ngoc Pham all worked through multiple nights in 2021 to collect sensor data.
+
+# Funding Acknowledgements
+
+Wheat Innovation Fund grant to Profs. Roston and Schnable. Foundation for Food and Agriculture (602757) to Prof. Schnable. NSF award OIA-1557417 to Profs. Glowacka and Schnable  NSF award IOS-2142993 to Prof. Glowacka. 
