@@ -49,6 +49,7 @@ TWAS was performed using the R package GAPIT under the Compressed Mixed Linear M
 
 # Bibliography 
 (Expression Quantification & Transcriptome-wide association studies)
+
 Zhang, Zhiwu, Elhan Ersoz, Chao-Qiang Lai, Rory J. Todhunter, Hemant K. Tiwari, Michael A. Gore, Peter J. Bradbury et al. "Mixed linear model approach adapted for genome-wide association studies." Nature genetics 42, no. 4 (2010): 355-360.
 
 Lipka, Alexander E., Feng Tian, Qishan Wang, Jason Peiffer, Meng Li, Peter J. Bradbury, Michael A. Gore, Edward S. Buckler, and Zhiwu Zhang. "GAPIT: genome association and prediction integrated tool." Bioinformatics 28, no. 18 (2012): 2397-2399.
