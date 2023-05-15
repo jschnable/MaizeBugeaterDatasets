@@ -40,5 +40,5 @@ Each RNA sample has been or will be deposited into the NCBI SRA. Details to be a
 
 (Genome version. Software. Settings. This work was conducted by Vladimir Torres Rodriguez.)
 
-The overall quality of raw reads from RNA-Seq libraries was assesed with FastQC. Raw reads were filtered and quality trimmed using trimmomatic v0.33 with the following parameters: "ILLUMINACLIP:TruSeq2-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:35". Gene quantification reported as transcripts per million (TPM) was calculated using 'quant' fuction inside kallisto v0.46 and the version 5 of the reference line B73 downloaded from the maizeGDB webpage. Sumarized table with all TPM values was created with in-house python script 'Make_rna_ss.py' deposited here.
+The overall quality of raw reads from RNA-Seq libraries was assessed with FastQC. Raw reads were filtered and quality trimmed using Trimmomatic v0.33 with the following parameters: "ILLUMINACLIP:TruSeq2-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:35". Gene quantification reported as transcripts per million (TPM) was calculated using the 'quant' function inside Kallisto v0.46 and the version 5 of the reference line B73 downloaded from the maizeGDB webpage. Summarized table with all TPM values was created with in-house python script 'Make_rna_ss.py' deposited here.
 
